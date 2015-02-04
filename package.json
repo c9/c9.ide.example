@@ -1,7 +1,7 @@
 {
   "name": "c9.ide.example",
   "description": "Cloud9 Custom Example Plugin",
-  "version": "1.10.16",
+  "version": "1.11.16",
   "author": "Ajax.org B.V. <info@ajax.org>",
   "contributors": [
     {
