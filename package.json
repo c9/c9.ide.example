@@ -1,7 +1,7 @@
 {
   "name": "c9.ide.example",
   "description": "Cloud9 Custom Example Plugin",
-  "version": "1.0.16",
+  "version": "1.1.16",
   "author": "Ajax.org B.V. <info@ajax.org>",
   "contributors": [
     {
@@ -11,9 +11,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/c9/newclient.git"
+    "url": "http://github.com/javruben/example.git"
   },
-  "plugins": [
+  "plugins": {
+    "example": {}
+  },
+  "categories": [
     "example"
   ],
   "licenses": []
